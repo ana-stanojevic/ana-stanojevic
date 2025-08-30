@@ -14,8 +14,8 @@ Applied ML • C++ • PyTorch • AI Systems • Zürich
 ---
 
 ## 🌍 Links
-- 📄 [CV](https://bit.ly/ana-cv)  
-- 📚 [Google Scholar](https://bit.ly/ana-scholar)  
+- 📄 [CV](https://bit.ly/ana-stanojevic-cv)  
+- 📚 [Google Scholar](https://bit.ly/ana-stanojevic)  
 - 🌐 [Website / Blog](https://ana-in-motion.com)  
 
 ---
