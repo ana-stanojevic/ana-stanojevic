@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ana Stanojevic
 
-<!--
-**ana-stanojevic/ana-stanojevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
+Applied ML • C++ • PyTorch • AI Systems • Zürich  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About me
+- 🎓 PhD in Artificial Intelligence, EPFL Lausanne, IBM Research Zurich (Spiking Neural Networks & Learning)  
+- 💻 Experience in AI research & prototyping for data storage (Huawei Zürich)  
+- ⚡ Passionate about applied AI systems, computer vision & efficient learning  
+- 🐶 Hybrid/remote friendly (dog-owner, so I value flexible and supportive work cultures)  
+
+---
+
+## 🌍 Links
+- 📄 [CV](https://bit.ly/ana-cv)  
+- 📚 [Google Scholar](https://bit.ly/ana-scholar)  
+- 🌐 [Website / Blog](https://ana-in-motion.com)  
+
+---
+
+## 🚀 Skills & Interests
+- **Languages:** C++, Python (PyTorch, Tensorflow, Transformers)  
+- **AI:** Deep Learning, Spiking Neural Networks, LLMs, Computer Vision  
+- **Other:** Prototyping SW/HW, Data-driven systems, Clean engineering practices  
+
+---
+
+⭐ Feel free to explore my pinned repos — I keep them clean, modern, and up to date.
