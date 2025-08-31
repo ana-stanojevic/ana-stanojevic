@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ana Stanojevic
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ana-stanojevic.ana-stanojevic)
+[![Scholar](https://img.shields.io/badge/Citations-100+-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3DNfrZYAAAAJ)
+![GitHub followers](https://img.shields.io/github/followers/ana-stanojevic?style=social)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
 **AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
 Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich  
 
