@@ -8,7 +8,7 @@ Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich
 ## 📚 About me
 🎓 PhD in Artificial Intelligence, EPFL Lausanne, IBM Research Zurich (Spiking Neural Networks & Learning)  
 💼 Experience in AI research & prototyping for data storage (Huawei Zürich)  
-⚡ Passionate about applied AI systems, computer vision & efficient learning  
+⚡ Passionate about applied AI systems, computer vision & efficient inference  
 🐶 Hybrid/remote friendly (dog-owner, so I value flexible and supportive work cultures)
 
 ---
