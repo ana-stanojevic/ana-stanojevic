@@ -10,7 +10,9 @@
 Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich  
 
 <br> 
-*I enjoy building applied AI systems that connect fundamental research with real-world prototypes.*
+
+*"I enjoy building applied AI systems that connect fundamental research with real-world prototypes."*
+
 <br>
 
 ---
