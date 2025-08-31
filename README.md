@@ -9,11 +9,9 @@
 **AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
 Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich  
 
-
-
+<br><br>
 *"I enjoy building applied AI systems that connect fundamental research with real-world prototypes."*  
-
-
+<br><br>
 
 ---
 
