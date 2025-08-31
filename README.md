@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ana Stanojevic
 
-**🧠 AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
+**AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
 Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich  
 
 ---
