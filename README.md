@@ -7,12 +7,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 **AI Engineer & Prototyper** — PhD @ EPFL/IBM (Spiking Neural Networks)  
-Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich  
+Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich 
+
 <br> 
 
 *"I enjoy building applied AI systems that connect fundamental research with real-world prototypes."*
 
 <br>
+
 ---
 
 ## 📚 About me
