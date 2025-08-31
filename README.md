@@ -27,7 +27,7 @@ Applied ML • C++ • PyTorch • AI Systems • 📍 Zürich
 ---
 
 ## 🚀 Skills & Interests
-- **Languages:** C++, Python (PyTorch, Tensorflow, Transformers)  
+- **Languages:** *C++, Python (PyTorch, Tensorflow, Transformers)*  
 - **AI:** Spiking Neural Networks, Deep Learning, LLMs, Computer Vision  
 - **Other:** Prototyping SW/HW, Data-driven systems, Clean engineering practices  
 
