@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ana Stanojevic
 
 ![C++ CI](https://github.com/ana-stanojevic/cpp-ffn/actions/workflows/cpp-ci.yml/badge.svg?branch=main)
-[![PyTorch CI](https://github.com/ana-stanojevic/pytorch-vision-pipeline/actions/workflows/python-ci.yml/badge.svg?branch=main)
+![PyTorch CI](https://github.com/ana-stanojevic/pytorch-vision-pipeline/actions/workflows/python-ci.yml/badge.svg?branch=main)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ana-stanojevic.ana-stanojevic)
 [![Scholar](https://img.shields.io/badge/Citations-100+-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3DNfrZYAAAAJ)
 ![GitHub followers](https://img.shields.io/github/followers/ana-stanojevic?style=social)
