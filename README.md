@@ -3,63 +3,61 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ana-stanojevic.ana-stanojevic)
 ![GitHub followers](https://img.shields.io/github/followers/ana-stanojevic?style=social)
 
-AI Systems Engineer focused on building systems that **make decisions and act in the real world**.
+AI Systems Engineer building decision systems that operate under real-world constraints.
 
 PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ---
 
-## 🚀 Current system
+## 🚀 Current system — Bounded Job Application Agent
 
-### Dog Behaviour Training
+A decision system that optimizes for **expected value**, not activity.
 
-A real-time AI system that guides behavior through **decision-making**, not just prediction.
-
-Most ML systems stop at inference.  
-This system **selects actions, executes them, and adapts over time**.
+Most agents maximize output.  
+This system intentionally skips low-value actions.
+👉 [View project](https://github.com/ana-stanojevic/bounded-job-application-agent)
 
 ---
 
-### How it works
+### Core idea
 
-A continuous loop:
+A structured decision runtime:
 
-context → retrieve → decide → act → evaluate → update
+intake → ranking → decision → execution → feedback
 
-- **retrieval (RAG):** pulls relevant behavioral patterns  
-- **decision loop:** selects the next best action  
-- **tool use:** maps decisions to concrete actions  
-- **feedback:** updates future behavior  
+---
+
+### Decision loop
+
+plan → select tool → execute → evaluate
+
+- retrieval (context + memory)  
+- tool use (browser / form / generation)  
+- policy-gated actions  
+- human-in-the-loop for final submission  
 
 ---
 
 ### System properties
 
-- stateful, not stateless  
-- bounded decisions, not open-ended agents  
-- optimized for outcomes, not activity  
-- operates under real-world constraints  
+- stateful runtime  
+- bounded autonomy  
+- uncertainty-aware decisions  
+- policy-controlled execution  
+- feedback-driven adaptation  
 
 ---
 
-### Why this matters
+### Example behavior
 
-Real-world systems don’t fail because models are weak.  
-They fail because **decision logic and execution are missing**.
-
-This system is built around that gap.
+120 jobs → 18 filtered → 6 shortlisted → 2 prepared → 1 submitted
 
 ---
 
-## 🧠 Supporting systems
+## 🧠 Supporting work
 
-### PyTorch Vision Pipeline
-End-to-end pipeline from training → inference → serving.  
-Designed to eliminate training–serving drift.
-
-### C++ Neural Network
-From-scratch implementation with explicit forward/backward passes.  
-Built for understanding system behavior at a low level.
+- [PyTorch Vision Pipeline](https://github.com/ana-stanojevic/pytorch-vision-pipeline)  
+- [C++ Neural Network](https://github.com/ana-stanojevic/cpp-ffn) 
 
 ---
 
@@ -67,22 +65,20 @@ Built for understanding system behavior at a low level.
 
 I’m useful when you are:
 
-- building an AI system that needs to **decide, not just predict**
-- moving from idea → working prototype → real-world system
-- building a full pipeline (input → model → decision → execution)
-- integrating LLMs with tools, constraints, and real-world signals
-- trying to reduce noise and focus on **high-value actions**
+- building an AI system that needs to make decisions, not just predictions  
+- moving from idea → working prototype → real-world system  
+- building a full pipeline (intake → model → decision → execution)  
+- integrating LLMs with tools, constraints, and real-world signals  
+- trying to maximize expected value, not activity  
 
 ---
 
 ## ⚙️ Focus
 
-I’m not interested in:
-- pure research roles
-- isolated model work without system integration
-- systems optimized for activity instead of outcomes
+I focus on systems that maximize expected value under constraints.
 
-I focus on systems that are evaluated by **what they actually achieve**.
+Not activity. Not output volume.  
+Actual outcomes.
 
 ---
 
