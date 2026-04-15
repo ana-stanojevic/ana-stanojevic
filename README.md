@@ -1,56 +1,100 @@
 # 👋 Hi, I'm Ana Stanojevic
 
-![C++ CI](https://github.com/ana-stanojevic/cpp-ffn/actions/workflows/cpp-ci.yml/badge.svg?branch=main)
-![PyTorch CI](https://github.com/ana-stanojevic/pytorch-vision-pipeline/actions/workflows/python-ci.yml/badge.svg?branch=main)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ana-stanojevic.ana-stanojevic)
 [![Scholar](https://img.shields.io/badge/Citations-100+-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3DNfrZYAAAAJ)
 ![GitHub followers](https://img.shields.io/github/followers/ana-stanojevic?style=social)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-**AI Systems Engineer** building production-grade AI systems. PhD in ML (EPFL / IBM Research Zurich).
+AI Systems Engineer building decision systems that operate under real-world constraints.
 
----
-## Currently building
-
-### [Dog Behaviour Training](https://github.com/ana-stanojevic/dog-behaviour-training)
-
-Real-time decision system for dog behavior training, combining retrieval (RAG) and agent-based decision loops.
-
-- retrieval of relevant behavior patterns and context
-- agent loop for decision-making and adaptation
-- structured feedback to improve future decisions
-- designed as a continuous, evolving system (not static inference)
+PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ---
-## Featured work
 
-### [PyTorch Vision Pipeline](https://github.com/ana-stanojevic/pytorch-vision-pipeline)
-End-to-end vision system from training to ONNX inference and API serving.
+## What I build
 
-- eliminates training–serving drift
-- shared preprocessing across training and inference
-- ONNX Runtime + FastAPI serving
-- reproducible, CI-backed pipeline
+I build AI systems that go beyond prediction — systems that decide, act, and adapt.
 
-### [C++ Feedforward Neural Network](https://github.com/ana-stanojevic/cpp-ffn)
-Neural network implementation in C++ with full visibility into gradients and updates.
+My focus:
+- decision-making under uncertainty
+- bounded autonomy (not infinite agent loops)
+- cost / risk / expected value tradeoffs
+- systems that integrate tools and execution
 
-- explicit forward and backward pass
-- inspectable gradient flow
-- low-level control over learning dynamics
-- built for correctness and understanding, not abstraction
+---
+
+## 🚀 Current system
+
+### Bounded Job Application Agent
+
+A decision system that optimizes for **expected value**, not activity.
+
+Most agents maximize output.  
+This system intentionally skips low-value actions.
+
+---
+
+### Core idea
+
+A structured decision runtime:
+
+intake → ranking → decision → execution → feedback
+
+---
+
+### Decision loop
+
+plan → select tool → execute → evaluate
+
+- retrieval (context + memory)
+- tool use (browser / form / generation)
+- policy-gated actions
+- human-in-the-loop for final submission
+
+---
+
+### System properties
+
+- stateful runtime  
+- bounded autonomy  
+- uncertainty-aware decisions  
+- policy-controlled execution  
+- feedback-driven adaptation  
+
+---
+
+### Example behavior
+
+120 jobs → 18 filtered → 6 shortlisted → 2 prepared → 1 submitted
+
+---
+## 🧠 Selected technical work
+
+### PyTorch Vision Pipeline
+End-to-end ML system from training to inference and serving.
+
+### C++ Neural Network
+Low-level implementation with explicit forward/backward passes.
   
 ---
+## 🔗 Work with me
 
-## Links
-[Website](https://ana-stanojevic.com)  
-[Scholar](https://ana-stanojevic.com/scholar)  
- 
+I collaborate on:
+- AI systems engineering
+- agent-based systems
+- LLM + decision systems
+- production ML systems
+
+📩 contact@ana-stanojevic.com  
+🌐 https://www.ana-stanojevic.com  
+
 ---
 
-## Focus
+## ⚙️ Focus
 
-I’m interested in roles and collaborations around AI engineering, ML systems, and production-focused applied AI.
+I build systems that:
+- make decisions under constraints  
+- integrate models, tools, and execution  
+- operate in the real world, not just offline evaluation  
 
-My GitHub is where I keep compact, inspectable projects that reflect how I think about systems: clear interfaces, reproducible workflows, and engineering decisions that hold up beyond experimentation.
+GitHub = implementation  
+Website = system thinking
