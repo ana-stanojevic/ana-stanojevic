@@ -1,92 +1,92 @@
 # 👋 Hi, I'm Ana Stanojevic
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ana-stanojevic.ana-stanojevic)
-[![Scholar](https://img.shields.io/badge/Citations-100+-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3DNfrZYAAAAJ)
 ![GitHub followers](https://img.shields.io/github/followers/ana-stanojevic?style=social)
 
-AI Systems Engineer building decision systems that operate under real-world constraints.
+AI Systems Engineer focused on building systems that **make decisions and act in the real world**.
 
 PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ---
 
-## What I build
+## 🚀 Current system
 
-- decision systems (not just prediction)
-- systems that combine LLMs, retrieval, and tool use
-- bounded agent runtimes (not open-ended agents)
-- pipelines that go from input → decision → execution → feedback
+### Dog Behaviour Training
 
----
+A real-time AI system that guides behavior through **decision-making**, not just prediction.
 
-## 🚀 Current system -  Bounded Job Application Agent
-
-
-A decision system that optimizes for **expected value**, not activity.
-
-Most agents maximize output.  
-This system intentionally skips low-value actions.
+Most ML systems stop at inference.  
+This system **selects actions, executes them, and adapts over time**.
 
 ---
 
-### Core idea
+### How it works
 
-A structured decision runtime:
+A continuous loop:
 
-intake → ranking → decision → execution → feedback
+context → retrieve → decide → act → evaluate → update
 
----
-
-### Decision loop
-
-plan → select tool → execute → evaluate
-
-- retrieval (context + memory)
-- tool use (browser / form / generation)
-- policy-gated actions
-- human-in-the-loop for final submission
+- **retrieval (RAG):** pulls relevant behavioral patterns  
+- **decision loop:** selects the next best action  
+- **tool use:** maps decisions to concrete actions  
+- **feedback:** updates future behavior  
 
 ---
 
 ### System properties
 
-- stateful runtime  
-- bounded autonomy  
-- uncertainty-aware decisions  
-- policy-controlled execution  
-- feedback-driven adaptation  
+- stateful, not stateless  
+- bounded decisions, not open-ended agents  
+- optimized for outcomes, not activity  
+- operates under real-world constraints  
 
 ---
 
-### Example behavior
+### Why this matters
 
-120 jobs → 18 filtered → 6 shortlisted → 2 prepared → 1 submitted
+Real-world systems don’t fail because models are weak.  
+They fail because **decision logic and execution are missing**.
+
+This system is built around that gap.
 
 ---
-## 🧠 Selected technical work
+
+## 🧠 Supporting systems
 
 ### PyTorch Vision Pipeline
-End-to-end ML system from training to inference and serving.
+End-to-end pipeline from training → inference → serving.  
+Designed to eliminate training–serving drift.
 
 ### C++ Neural Network
-Low-level implementation with explicit forward/backward passes.
-  
+From-scratch implementation with explicit forward/backward passes.  
+Built for understanding system behavior at a low level.
+
 ---
-## 🔗 Work with me
+
+## 🤝 Work with me
 
 I’m useful when you are:
 
-- building an AI system that needs to make decisions, not just predictions
+- building an AI system that needs to **decide, not just predict**
 - moving from idea → working prototype → real-world system
-- building a full pipeline (intake → model → decision → execution)
+- building a full pipeline (input → model → decision → execution)
 - integrating LLMs with tools, constraints, and real-world signals
-- trying to reduce noise and focus on high-value actions
-
-📩 contact@ana-stanojevic.com  
-🌐 https://www.ana-stanojevic.com  
+- trying to reduce noise and focus on **high-value actions**
 
 ---
 
 ## ⚙️ Focus
 
-I focus on systems that are evaluated by what they actually achieve.
+I’m not interested in:
+- pure research roles
+- isolated model work without system integration
+- systems optimized for activity instead of outcomes
+
+I focus on systems that are evaluated by **what they actually achieve**.
+
+---
+
+## 🔗 Contact
+
+📩 contact@ana-stanojevic.com  
+🌐 https://www.ana-stanojevic.com
