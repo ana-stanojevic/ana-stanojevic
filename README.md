@@ -12,13 +12,10 @@ PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ## What I build
 
-I build AI systems that go beyond prediction — systems that decide, act, and adapt.
-
-My focus:
-- decision-making under uncertainty
-- bounded autonomy (not infinite agent loops)
-- cost / risk / expected value tradeoffs
-- systems that integrate tools and execution
+- decision systems (not just prediction)
+- systems that combine LLMs, retrieval, and tool use
+- bounded agent runtimes (not open-ended agents)
+- pipelines that go from input → decision → execution → feedback
 
 ---
 
@@ -78,11 +75,13 @@ Low-level implementation with explicit forward/backward passes.
 ---
 ## 🔗 Work with me
 
-I collaborate on:
-- AI systems engineering
-- agent-based systems
-- LLM + decision systems
-- production ML systems
+I’m useful when you are:
+
+- building an AI system that needs to make decisions, not just predictions
+- moving from idea → working prototype → real-world system
+- building a full pipeline (intake → model → decision → execution)
+- integrating LLMs with tools, constraints, and real-world signals
+- trying to reduce noise and focus on high-value actions
 
 📩 contact@ana-stanojevic.com  
 🌐 https://www.ana-stanojevic.com  
@@ -91,10 +90,4 @@ I collaborate on:
 
 ## ⚙️ Focus
 
-I build systems that:
-- make decisions under constraints  
-- integrate models, tools, and execution  
-- operate in the real world, not just offline evaluation  
-
-GitHub = implementation  
-Website = system thinking
+I focus on systems that are evaluated by what they actually achieve.
