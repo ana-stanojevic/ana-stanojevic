@@ -19,9 +19,8 @@ PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ---
 
-## 🚀 Current system
+## 🚀 Current system -  Bounded Job Application Agent
 
-### Bounded Job Application Agent
 
 A decision system that optimizes for **expected value**, not activity.
 
