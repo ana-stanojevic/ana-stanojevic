@@ -77,9 +77,6 @@ I’m useful when you are:
 
 I focus on systems that maximize expected value under constraints.
 
-Not activity. Not output volume.  
-Actual outcomes.
-
 ---
 
 ## 🔗 Contact
