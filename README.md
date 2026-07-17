@@ -9,44 +9,38 @@ PhD in Machine Learning (EPFL / IBM Research Zürich)
 
 ---
 
-## 🚀 Building
-### Skaut Careers
+# 🚀 Building
+
+## Skaut Careers
 
 Skaut Careers is an AI-native career platform designed to support people throughout their professional lives.
 
-The platform combines decision systems, workflow engines, evaluation frameworks, and human oversight to help individuals navigate opportunities, applications, learning, career transitions, and long-term professional growth.
+The platform combines decision systems, workflow engines, evaluation frameworks, and human oversight to help people navigate opportunities, applications, learning, career transitions, and long-term professional growth.
 
-It is being developed as a collection of modular AI systems, each focused on a specific decision-making problem and designed to operate under real-world constraints.
+It is being developed as a collection of modular AI systems, each solving a specific decision-making problem under real-world constraints.
 
-👉 [View project](https://github.com/skaut-careers/platform)
+👉 **Project:** https://github.com/skaut-careers/platform
 
 ---
-## Current Implementation
 
-### Bounded Application Workflow
+# Current Implementation
 
-The first production module inside Limen.
+## Bounded Application Workflow
+
+The first production module of Skaut Careers.
 
 A workflow engine that evaluates opportunities against a user profile and decides whether the system should:
 
-* prepare
-* queue
-* skip
-* escalate
+- prepare
+- queue
+- skip
+- escalate
 
 The objective is to optimize for expected value rather than activity.
 
------------
-
-## What I’m Building
-
-Skaut Careers is an AI-native platform for decision support, opportunity evaluation, and professional growth.
-
-The platform is being developed as a collection of modular AI systems that help transform information into structured decisions and actionable next steps.
-
 ---
 
-## Current Focus
+# Current Focus
 
 - AI systems
 - decision engines
@@ -58,7 +52,10 @@ The platform is being developed as a collection of modular AI systems that help 
 
 ---
 
-## 🔗 Contact
+# 🔗 Links
 
-📩 contact@ana-stanojevic.com  
 🌐 https://www.ana-stanojevic.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ana-stanojevic1/
+
+📩 contact@ana-stanojevic.com
