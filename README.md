@@ -23,9 +23,9 @@ It is being developed as a collection of modular AI systems, each solving a spec
 
 ---
 
-# Current Implementation
+## Current Implementation
 
-## Bounded Application Workflow
+### Bounded Application Workflow
 
 The first production module of Skaut Careers.
 
