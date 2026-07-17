@@ -56,6 +56,6 @@ The objective is to optimize for expected value rather than activity.
 
 🌐 https://www.ana-stanojevic.com
 
-💼 LinkedIn: https://www.linkedin.com/in/ana-stanojevic1/
+💼 https://www.linkedin.com/in/ana-stanojevic1/
 
 📩 contact@ana-stanojevic.com
