@@ -10,15 +10,15 @@ PhD in Machine Learning (EPFL / IBM Research Zürich)
 ---
 
 ## 🚀 Building
-### Limen
+### Skaut Careers
 
-Limen is an AI-native career platform designed to support people throughout their professional lives.
+Skaut Careers is an AI-native career platform designed to support people throughout their professional lives.
 
 The platform combines decision systems, workflow engines, evaluation frameworks, and human oversight to help individuals navigate opportunities, applications, learning, career transitions, and long-term professional growth.
 
 It is being developed as a collection of modular AI systems, each focused on a specific decision-making problem and designed to operate under real-world constraints.
 
-👉 [View project](https://github.com/ana-stanojevic/Limen)
+👉 [View project](https://skaut-careers.com/platform)
 
 ---
 ## Current Implementation
