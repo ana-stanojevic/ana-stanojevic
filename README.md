@@ -18,7 +18,7 @@ The platform combines decision systems, workflow engines, evaluation frameworks,
 
 It is being developed as a collection of modular AI systems, each focused on a specific decision-making problem and designed to operate under real-world constraints.
 
-👉 [View project](https://skaut-careers.com/platform)
+👉 [View project](https://github.com/skaut-careers/platform)
 
 ---
 ## Current Implementation
