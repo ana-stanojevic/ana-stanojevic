@@ -40,7 +40,7 @@ The objective is to optimize for expected value rather than activity.
 
 ## What I’m Building
 
-Limen is an AI-native platform for decision support, opportunity evaluation, and professional growth.
+Skaut Careers is an AI-native platform for decision support, opportunity evaluation, and professional growth.
 
 The platform is being developed as a collection of modular AI systems that help transform information into structured decisions and actionable next steps.
 
